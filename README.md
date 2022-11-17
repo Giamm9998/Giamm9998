@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:g.pastore11@studenti.unipi.it">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail" alt="mail Badge"/>
   </a>
 </div>
 
