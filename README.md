@@ -2,7 +2,7 @@
 
 - 💻 I'm a Cybersecurity student @ University of Pisa
 - 📚 I'm tutor for the [Cyberchallenge](https://cyberchallenge.it/) project with [C3T](https://www.c3t.it/)
-- 🚩 I like playing CTF competions with the team [born2scan](https://born2scan.run/) <br>
+- 🚩 I play CTF competions with the team [born2scan](https://born2scan.run/) <br>
 - 🌱 I'm currently learning Go and Docker
  
 ### 📫 **How to reach me?** 
