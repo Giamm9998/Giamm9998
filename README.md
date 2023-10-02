@@ -20,5 +20,6 @@
 <div id="tech_badges">
     <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&style=for-the-badge" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=White&style=for-the-badge" alt="C++ Badge"/>
-    <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/>
+    <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/>
+    <img src="https://img.shields.io/badge/Rust-red?logo=c%2B%2B&logoColor=White&style=for-the-badge" alt="Rust Badge"/>
 </div>
