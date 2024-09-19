@@ -1,7 +1,7 @@
 ### :man_technologist: **About me:**
 
-- 💻 I'm a Cybersecurity student @ University of Pisa
-- 👔 I'm an intern @ [Thales](https://www.thalesgroup.com/en)
+- 💻 I've studied Cybersecurity @ University of Pisa
+- 👔 I'm a Cybersecurity Consultant @ [RAD]([https://www.thalesgroup.com/en](https://radsec.it/en/))
 - 📚 I'm tutor for the [Cyberchallenge](https://cyberchallenge.it/) project with [C3T](https://www.c3t.it/)
 - 🚩 I play CTF competions with the team [born2scan](https://born2scan.run/) <br>
 - 🌱 I'm currently learning Rust and Docker
